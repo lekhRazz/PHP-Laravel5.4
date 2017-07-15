@@ -1,0 +1,424 @@
+.navbar-default .sidebar{
+	    margin-top: 80px;
+}
+.name{
+	margin-left: 153px;
+    max-width: 750px;
+    margin-top: -16px;
+}
+.name h6{
+	color:#641E16;
+}
+#page-wrapper{
+	padding:0px 0px;
+	margin-top:-18px;
+}
+
+
+/****************aboutus style sheet******************/
+.content{
+	background: #626567;
+	max-width: 1100px;
+	margin-bottom: 15px;
+	padding-top: 20px;
+
+}
+.tinycontent{
+	max-width: 550px;
+	margin:10px 10px;
+	padding:10px 10px;
+}
+.auth_table th{
+	padding:5px;
+}
+.about_image{
+/*overflow: hidden;*/
+max-width: 1100px;
+max-height: 500px;
+margin-bottom: 10px;
+}
+.org_address{
+	max-width: 150px;
+	max-height: 100px;
+	opacity:0.9;
+	background: green;
+	color:red;
+	padding:10px;
+	margin-top: -100px;
+	overflow: hidden;
+}
+.about_org{
+	margin-top: 65px;
+	margin-bottom: 20px;
+	background: white;
+
+}
+.tiny_title{
+	background: #784212;
+	padding:5px;
+	font-size: 25px;
+}
+.tiny_info{
+	color:#935116;
+	font-weight: bold;
+	font-size: 25px;
+	padding-top: 20px;
+}
+.info_detail{
+	max-width: 800px;
+	padding-left: 85px;
+}
+/**************gallery style sheet*********************/
+
+.gallery_add{
+	max-width: 1100px;
+	margin:18px 5px;
+	padding:10px 10px;
+}
+.titleholder{
+	background: ##F1948A;
+	color:#641E16;
+	font-weight: bold;
+	max-width: 1100px;
+	padding:5px 5px 5px 5px;
+	margin-bottom: 18px;
+}
+.gallerypocket{
+	max-width: 1000px;
+	background: #D5DBDB;
+	padding:5px 5px;
+	margin:0 auto;
+	overflow:hidden;
+	margin-bottom:20px;
+}
+.single_image{
+	max-width: 700px;
+	margin:0 auto;
+	padding-top:10px;
+}
+.gallery_detail{
+	max-width: 450px;
+	margin:0 auto;
+	padding-bottom: 18px;
+}
+#g_photo_title{
+	color:#641E16;
+	font-weight: bold;
+	font-size:20px;
+}
+#g_photo_detail{
+
+	color:#4A235A;
+	padding-top: 8px;
+	padding-bottom:18px;
+	font-size:18px;
+	
+    max-width: 300px;
+	margin-left: 95px;
+
+}
+#g_photo_detail th{
+	padding:5px;
+}
+
+/**************************register style sheet****************************/
+.parentsection{
+	padding:5px;
+	overflow: hidden;
+	background:#CACFD2;
+	border:1px solid black;
+	margin-top: 5px;
+	padding-left: 8px;
+
+}
+
+#uploadForm{
+	max-width:1100px;
+	padding:5px;
+	margin-top: 20px;
+	
+}
+.form-group{
+	max-width: 550px;
+}
+.imagePreview {
+	width: 200px; 
+	height: 200px; 
+	background-size: cover; 
+	background-position: 50% 50%;
+	 border: 1px solid black; 
+	 margin: 0 0 15px;
+	 background: #515A5A;
+}
+mark{
+	background: #EC7063;
+}
+
+/*************************waiting child*************************/
+
+.titleholder{
+	background: #808080;
+	color:#641E16;
+	font-weight: bold;
+	max-width: 1100px;
+	padding:5px 5px 5px 5px;
+	margin-bottom: 18px;
+}
+.child_info_holder{
+	max-width: 1100px;
+	background: #808080;
+	margin-top: 75px;
+	height: 307px;
+	margin-bottom: 8px;
+	padding:18px 8px 8px 8px;
+}
+.child_valid_cont{
+	max-width: 1100px;
+	background: #808080;
+	margin-top: 75px;
+	height:500px;
+	margin-bottom: 8px;
+	padding:18px 8px 8px 8px;
+}
+.child_image_holder{
+	max-width: 250px;
+	background: #808080;
+	margin-left: 5px;
+	float:left;
+	margin-left: 4px;
+
+}
+.child_detail_holder{
+	
+padding-top: 8px;
+padding-left: 25px;
+min-width: 250px;
+float:left;
+}
+#child_tbl th{
+	padding:3px;
+}
+
+#btn_adpt{
+	margin-top:20px;
+}
+/*********************adopted child style sheet*************************/
+.navbar-right{
+	padding-top: 15px;
+}
+.titleholder{
+	background: #808080;
+	color:#641E16;
+	font-weight: bold;
+	max-width: 1100px;
+	padding:5px 5px 5px 5px;
+	margin-bottom: 18px;
+	margin-top: 5px;
+}
+/***********************add gallery style sheet**********************/
+.input-group{
+	width:550px;
+}
+
+/*************************member style sheet*******************/
+
+.addmember{
+	max-width: 110px;
+    /* margin: 10px 10px; */
+    padding-top: 24px;
+    margin-left: 10px;
+    margin-bottom: -53px;
+}
+.member_info_container{
+	max-width: 1100px;
+    background: #808080;
+    margin-top: 0px;
+    height: 307px;
+    margin-bottom: 8px;
+    padding: 18px 8px 8px 8px;
+}
+/*********************memberdetails style sheet**************************/
+.membertable th{
+padding:5px;
+border:1px solid black;
+}
+.memberdetails{
+	padding:10px 10px;
+}
+.member_detail_tbl td{
+	padding:10px;
+}
+
+.selectpicker option{
+	padding:5px 10px;
+	width:550px;
+}
+
+/**************************donation stylesheet******************/
+
+.donation_field{
+	border:1px solid black;
+	border-style: dotted;
+	background: white;
+	padding-left: 8px;
+}
+.donation_info{
+	background: #808080;
+	padding:5px 5px 5px;
+}
+#donation_tbl th{
+	padding:4px;
+}
+/********************user profile style sheet**************************/
+.coverphoto{
+	width:1100px;
+	background: #626567;
+	border:2px solid black;
+}
+#profilepic{
+	width: 200px;
+	height: 200px;
+}
+.displaypic{
+	margin-top: -150px;
+	padding:10px 10px;
+}
+.username{
+	max-width: 3500px;
+	margin-left: 450px;
+	float:left;
+	margin-top:-127px;
+	/*opacity:0.5;*/
+	font-size: 30px;
+	overflow:hidden;
+	
+}
+#userspan{
+	font-weight: 500px;
+    line-height: 30px;
+    color:#17202A;
+    font-family: inherit;
+
+}
+.btn_tble_update{
+	padding:10px 10px;
+}
+
+
+/*******************layout style sheet******************/
+.btn_change{
+	max-width: 75px;
+	margin-left:50px;
+	float:left;
+	padding: 10px 10px 10px 10px;
+
+}
+/**********************organization policy style sheet******************/
+.terms_condition{
+	padding:5px 5px;
+}
+.terms_condition h2{
+	font-size:18px;
+	color:#641E16;
+	font-weight: bold;
+}
+.child_table{
+	margin-left:-8px;
+}
+.child_table th{
+	padding:5px 5px;
+}
+.search{
+	max-width: 650px;
+	float:left;
+	margin-left: 105px;
+}
+.member_nav{
+	overflow: hidden;
+	max-width: 1100px;
+	height:100px;
+}
+/***************user profile************************/
+#imgInp{
+
+	max-width: 90px;
+	/*overflow: hidden;
+	height: 45px;*/
+}
+
+.inputBrowse{
+	max-width: 90px;
+
+}
+
+
+
+/*************register stylesheet****************************/
+.section_title{
+	color:#CB4335;
+	font-size:20px;
+	border-bottom:1px solid black
+}
+
+
+
+
+
+/**********************user profile style sheet**************/
+
+.user_img{
+	max-width: 200px;
+	background: #424949;
+	height:200px;
+	padding-top: 45px;
+	padding-left: 45px;
+ 	border-radius: 100px 100px 100px 100px;
+}
+.user_img li{
+	list-style-type: none;
+	color:#FFF;
+	padding:5px;
+}
+ #usrimg{
+ 	width:200px;
+ 	height:200px;
+ 	border-radius: 100px 100px 100px 100px;
+ 	margin:0 auto;
+ }
+ .img_section{
+ 	padding:5px;
+	overflow: hidden;
+	border:1px solid black;
+	max-width: 1100px;
+	height:1100px;
+	margin-top: 5px;
+	background: #424949;
+ }
+ .usr_name{
+  font-style: normal;
+  color:#E74C3C;
+  font-weight: 35px;
+ }
+
+ .btn-sm{
+ 	    padding: 8px;
+    margin: 5px;
+    /* margin: 0 auto; */
+    margin-left: 42px;
+ }
+
+ .popupImg{
+ 	height:950px;
+ 	width:950px;
+ }
+
+
+ .user_img_holder{
+ 	width: 200px;
+    overflow: hidden;
+    display: block;
+    border: 1px solid white;
+    border-radius: 100px 100px 100px 100px;
+    height: 200px;
+    background: white;
+ }
